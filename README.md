@@ -17,7 +17,8 @@ My implementation for machine-learning algorithms with python and using them to 
 
    - in this part of the exercise, we will build a logistic regression model to predict whether a student gets admitted into a university using ex2data1.txt data file.
    
-   
+4- [Regularized logistic regression](https://github.com/raneem11/ML-algorithms-with-python/blob/master/reg-logistic.ipynb)
+   - In this part of the exercise, we will implement regularized logistic regression to predict whether microchips from a fabrication plant passes quality assurance (QA), then we will compare between different regularization parameters to have better understanding for overfitting and underfitting.  
    
  **tools** 
    - numpy
